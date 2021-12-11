@@ -1,0 +1,9 @@
+{
+  "name": "claim",
+  "version": "0.0.1",
+  "description": "Empty project to claim vendor name",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rmxmr/npmjs-claim.git"
+  }
+}
