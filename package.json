@@ -1,7 +1,7 @@
 {
-  "name": "claim",
+  "name": "@rmxmedia/claim",
   "version": "0.0.1",
-  "description": "Empty project to claim vendor name",
+  "description": "Empty project to claim scope",
   "repository": {
     "type": "git",
     "url": "git@github.com:rmxmr/npmjs-claim.git"
